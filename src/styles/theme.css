@@ -1,0 +1,15 @@
+:root {
+    --primary-dark: #56021F;
+    --primary: #7D1C4A;
+    --secondary: #D17D98;
+    --background: #F4CCE9;
+    --text: #56021F;
+}
+
+body {
+    background-color: var(--background);
+    color: var(--text);
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
